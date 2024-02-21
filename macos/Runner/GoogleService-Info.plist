@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>300074776344-fgtdagv3c6jnt5qhh0hts3shckmp386f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.300074776344-fgtdagv3c6jnt5qhh0hts3shckmp386f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA-1Pv_KhcqvSIR4lzJHp0LNyNxc1DXd4M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>300074776344</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.testlogin.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>massive-tuner-396313</string>
+	<key>STORAGE_BUCKET</key>
+	<string>massive-tuner-396313.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:300074776344:ios:815bb5fadb8043a82a506d</string>
+</dict>
+</plist>
